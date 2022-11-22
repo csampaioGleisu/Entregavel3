@@ -1,25 +1,24 @@
 {
   "name": "entregavel3",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.20.1",
-    "express": "^4.18.2"
-  },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/csampaioGleisu/Entregavel3.git"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/csampaioGleisu/Entregavel3/issues"
   },
   "homepage": "https://github.com/csampaioGleisu/Entregavel3#readme",
-  "description": ""
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
 }
